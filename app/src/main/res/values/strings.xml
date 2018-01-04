@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Vending Machine</string>
+    <string name="btn_coin">Inserta una moneda</string>
+    <string name="btn_push">Acciona la palanca</string>
 </resources>
